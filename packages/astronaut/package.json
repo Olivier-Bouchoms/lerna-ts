@@ -1,5 +1,5 @@
 {
-  "name": "@nighttrax/foo",
+  "name": "@olivierbouchoms/astronaut",
   "version": "1.0.0",
   "main": "dist/index",
   "types": "dist/index",
@@ -13,6 +13,6 @@
     "prepublishOnly": "npm run build"
   },
   "devDependencies": {
-    "typescript": "~3.4.5"
+    "typescript": "^3.6.3"
   }
 }
